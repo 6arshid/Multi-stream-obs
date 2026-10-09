@@ -1,0 +1,22 @@
+# Build directories
+/build*/
+/.deps/
+/release/
+/cmake/.CMakeBuildNumber
+
+# IDE
+/.vs/
+/.vscode/
+/.idea/
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Packaging artifacts
+*.zip
+*.tar.xz
+*.pkg
+*.exe
+!scripts/*.exe
