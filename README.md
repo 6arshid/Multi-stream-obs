@@ -11,3 +11,9 @@ Open **Docks → Universal Multi-Stream**, add a platform, choose Manual mode, p
 - [Security](docs/SECURITY.md), [contributing](docs/CONTRIBUTING.md)
 
 The plugin sends the current OBS program video/audio to each destination. Encoder sharing reduces encoding work; each output still consumes upload bandwidth. SRT, chat, analytics, and universal platform-side broadcast start/stop are not implemented.
+
+## Developer
+
+- **Developer:** 6arshid
+- **Website:** [www.6arshid.com](https://www.6arshid.com)
+- **Email:** [info@6arshid.com](mailto:info@6arshid.com)
